@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Orange HRM Leave Apply Automation">
+    <test name = "Admin Login">
+        <classes>
+        <class name="testrunner.LoginTestRunner">
+        </class>
+        </classes>
+    </test>
+    <test name = "Leave Apply">
+        <classes>
+            <class name="testrunner.LeaveTestRunner">
+            </class>
+        </classes>
+    </test>
+</suite>
