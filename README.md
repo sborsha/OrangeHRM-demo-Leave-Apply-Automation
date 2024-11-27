@@ -29,3 +29,6 @@ This is a simple project of automation for OrangeHRM demo website. Here I have u
 ## TestNG Report 
 ![1](https://github.com/user-attachments/assets/2ee5d186-5d7d-4ec9-8a1e-39d43921f2f1)
 ![2](https://github.com/user-attachments/assets/23c83c61-c8e8-4e33-9198-5526e816e7b9)
+
+@Author
+sborsha(Safia Borsha)
