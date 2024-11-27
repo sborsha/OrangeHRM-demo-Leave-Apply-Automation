@@ -1,5 +1,5 @@
 # Demo OrangeHRM Web Automation
-This is a simple project of automation for OrangeHRM demo website. Here I have used Selenium and TestNG as a test framework. I have automated of Admin Login and can leave apply.
+This is a simple project of automation for OrangeHRM demo website. Here I have used Selenium with java gradle(POM) and TestNG as a test framework. I have automated of Admin Login and can leave apply.
 
 ## Overview
 1. Go to this https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
@@ -13,6 +13,15 @@ This is a simple project of automation for OrangeHRM demo website. Here I have u
 - IntelliJ Idea or any community (JAVA IDE)
 - Selenium with TestNG
 - Gradle
+
+## How to Run this Project
+- Clone this repo
+
+      https://github.com/sborsha/OrangeHRM-demo-Leave-Apply-Automation
+- Open this file with IntelliJ Idea or any community (JAVA IDE)
+- Run the command in command line
+
+      gradle clean test
 
 ## Automation Video Record 
 [1.webm](https://github.com/user-attachments/assets/46f2914d-0e56-458e-b512-e832db11cd49)
